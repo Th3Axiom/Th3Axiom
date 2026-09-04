@@ -36,7 +36,7 @@
       <h3 align="center">Сайт-визитка Th3Axiom</h3>
       <div align="center">
         <a href="https://th3axiom.ru" target="_blank">
-          <img src="https://via.placeholder.com/600x300/2d2d2d/ffffff?text=Th3Axiom.ru" width="400" alt="Сайт-визитка"/>
+          <img src="https://via.placeholder.com/600x300/2d2d2d/ffffff?text=Th3Axiom.ru" width="400" alt="Th3Axiom.ru"/>
         </a>
         <p>
           <a href="https://github.com/Th3Axiom/website" target="_blank">
@@ -83,15 +83,4 @@
   <a href="mailto:th3l1ne@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<!-- "Подвал" профиля -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Th3Axiom&label=Просмотров+профиля&color=blueviolet&style=plastic" alt="Счетчик просмотров" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Th3Axiom/Th3Axiom/output/snake.svg" alt="Змейка с коммитами" />
 </p>
